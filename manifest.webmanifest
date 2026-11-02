@@ -1,0 +1,17 @@
+{
+  "name": "Saku Regulasi Pertanahan",
+  "short_name": "Regulasi BPN",
+  "description": "Cari dan pelajari peraturan pertanahan ATR/BPN bidang Survei dan Pemetaan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f4",
+  "theme_color": "#14242b",
+  "lang": "id",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
